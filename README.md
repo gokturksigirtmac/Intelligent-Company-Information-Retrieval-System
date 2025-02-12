@@ -21,7 +21,7 @@ The project is a FastAPI-based service designed to process company queries using
 
 ```sh
 git clone https://github.com/gokturksigirtmac/Intelligent-Company-Information-Retrieval-System.git
-cd llm-api
+cd Intelligent-Company-Information-Retrieval-System
 ```
 
 ### Provide Credentials
